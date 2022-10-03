@@ -1,3 +1,3 @@
 # Organization Readme
 
-Visit Our Website: https://gssm-autogolfcart.github.io/ 
+Visit Our Website: https://autogolfcart.github.io/ 
